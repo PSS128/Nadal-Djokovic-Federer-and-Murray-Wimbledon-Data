@@ -26,4 +26,4 @@
 
 - tennis_atp. (2017–2022, April 11). [Dataset]. Jeff Sackmann. https://github.com/JeffSackmann/tennis_atp
 - Perlin, Marcelo S. “Using R to Study Tennis Players.” Msperlin, Msperlin, 13 Feb. 2017, https://www.msperlin.com/blog/post/2017-02-13-r-and-tennis-players/. 
-- Kovalchik, Stephanie. “Measuring Ma
+- Kovalchik, Stephanie. “Measuring Match Dominance.” Stats On the T, 16 July 2017, http://on-the-t.com/2017/07/16/match-dominance/.
