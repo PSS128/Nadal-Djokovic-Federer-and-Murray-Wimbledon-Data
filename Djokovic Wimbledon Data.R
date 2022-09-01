@@ -935,7 +935,7 @@ Djokovic_loser_Wimbledon_2008$l_Djokovic_dominance_ratio  <- (1 -(Djokovic_loser
 
 Djokovic_dominance_average_point_2008 <- (sum(Djokovic_winner_Wimbledon_2008$w_Djokovic_dominance_ratio) + 
                                          sum(Djokovic_loser_Wimbledon_2008$l_Djokovic_dominance_ratio))/2
-####
+#####
 
 
 Djokovic_winner_Wimbledon_2009$w_Djokovic_dominance_ratio <- (1 -(Djokovic_winner_Wimbledon_2009$l_1stWon + Djokovic_winner_Wimbledon_2009$l_2ndWon)
