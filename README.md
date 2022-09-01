@@ -18,11 +18,23 @@
 - Dominance ratio is defined as (% of points won on opponent’s serve / % of points lost on own serve). It includes return statistics and tells us how dominant a player is over the course of the entire match
 - From the dominance ratio, we can make conclusions of a player’s overall performance over a match rather than only on their first serve. ​
 
-## Charts
+## Charts for difference in first serve % points won
 
 
-[Nadal-Wimbledon-1st-serve-difference.pdf](https://github.com/PSS128/Nadal-s-Performance-at-Wimbledon/files/9468734/Nadal-Wimbledon-1st-serve-difference.pdf)
+![image](https://user-images.githubusercontent.com/102637443/187883956-8d7cca0b-2215-429d-b7bd-247ed946704d.png)
 
+![image](https://user-images.githubusercontent.com/102637443/187884198-d127502e-e943-4da2-b37f-9b1eeb0b5c1a.png)
+
+![image](https://user-images.githubusercontent.com/102637443/187884318-4103eb2b-6d6f-4727-b3ad-39fa4673584c.png)
+
+
+## Charts for dominance ratio
+
+![image](https://user-images.githubusercontent.com/102637443/187884906-0ade7725-26a5-4c04-a5b8-b7c42f49fe0f.png)
+
+![image](https://user-images.githubusercontent.com/102637443/187885006-17369726-419e-488b-ac6a-401f84601b28.png)
+
+![image](https://user-images.githubusercontent.com/102637443/187885140-9073202c-fa82-493b-856d-1740c913df6c.png)
 
 
 
