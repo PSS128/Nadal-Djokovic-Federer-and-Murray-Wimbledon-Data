@@ -1160,7 +1160,7 @@ Federer_dominance_average_point_2000 <- (sum(Federer_winner_Wimbledon_2000$w_Fed
                                            sum(Federer_loser_Wimbledon_2000$l_Federer_dominance_ratio))/1
 
 
-####
+#####
 
 Federer_winner_Wimbledon_2001$w_Federer_dominance_ratio <- (1 -(Federer_winner_Wimbledon_2001$l_1stWon + Federer_winner_Wimbledon_2001$l_2ndWon)
                                                             /Federer_winner_Wimbledon_2001$l_svpt)/ (1-(Federer_winner_Wimbledon_2001$w_1stWon + 
