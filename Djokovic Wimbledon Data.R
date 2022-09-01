@@ -1235,7 +1235,7 @@ Djokovic_dominance_plot_with_averages <- Djokovic_dominance_plot +
                                                                       /Djokovic_loser_all_Wimbledon_matches$w_svpt)/ (1-(Djokovic_loser_all_Wimbledon_matches$l_1stWon + 
                                                                                                                            Djokovic_loser_all_Wimbledon_matches$l_2ndWon)/
                                                                                                                         (Djokovic_loser_all_Wimbledon_matches$l_svpt))
-  #single dominance ratio
+  ##single dominance ratio
   
   Djokovic_all_Wimb_matches <- rbind(Djokovic_winner_all_Wimbledon_matches_2, Djokovic_loser_all_Wimbledon_matches_2)
   
